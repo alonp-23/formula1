@@ -4,7 +4,7 @@
     "name": "Max Verstapen",
     "team": "RedBull",
     "standing": 1,
-    "description": "Max Emilian Verstappen (born 30 September 1997) is a Belgian-Dutch racing driver and the 2021 Formula One World Champion. He competes under the Dutch flag in Formula One with Red Bull Racing. He is the son of former Formula One driver Jos Verstappen. At the 2015 Australian Grand Prix, when he was aged 17 years, 166 days, he became the youngest driver to compete in Formula One. After spending the 2015 season with Scuderia Toro Rosso, Verstappen started his 2016 campaign with the Italian team before being promoted to parent team Red Bull Racing after four races as a replacement for Daniil Kvyat. At the age of 18, he won the 2016 Spanish Grand Prix on his debut for Red Bull Racing, becoming the youngest-ever driver and the first Dutch driver to win a Formula One Grand Prix. After winning the 2021 Abu Dhabi Grand Prix, Verstappen became the first Dutch driver to win the Formula One World Championship, and the 34th Formula One World Drivers' Champion.",
+    "description": "Max Verstappen is a Dutch racing driver racing for RedBull. At the age of 17 years, 166 days, he became the youngest driver to compete in Formula One with Toro Rosso. in the middle of the 2016 he was promoted to Red Bull Racing. He became the youngest driver and the only dutch driver to win a race after winning at the age of 18. In 2021 Verstappen became the first Dutch driver to win the Formula One World Championship, and the 34th Formula One World Drivers Champion.",
     "image": "./MaxVerstappen.jpg",
     "video": "https://youtu.be/B4pF4bMwYYI"
     },
@@ -12,7 +12,7 @@
     "name": "Sergio Perez",
     "team": "RedBull",
     "standing": 2,
-    "description": "Sergio Michel 'Checo' Pérez Mendoza (born 26 January 1990), is a Mexican racing driver who races in Formula One for Red Bull Racing, having previously driven for Sauber, McLaren, Force India, and Racing Point. He won his first Formula One Grand Prix at the 2020 Sakhir Grand Prix, breaking the record for the number of starts before a race win at 190. He also earned his first Formula One pole position at the 2022 Saudi Arabian Grand Prix, breaking the record for the most races before a first pole position at 215.",
+    "description": "Sergio 'Checo' Pérez is a Mexican racing driver racing for RedBull, he drove for Sauber, McLaren, Force India, and Racing Point. His first race win came in the 2020 Sakhir Grand Prix, breaking the record for the number of races before a race win at 190. He also earned his first Formula One pole position at the 2022 Saudi Arabian Grand Prix, breaking the record for the most races before a pole position at 215.",
     "image": "./SergioPerez.jpg",
     "video": "https://youtu.be/iRFJrYP8Up0"
     },
@@ -20,7 +20,7 @@
     "name": "Charles Leclerc",
     "team": "Ferrari",
     "standing": 3,
-    "description": "Charles Marc Hervé Perceval Leclerc (born 16 October 1997) is a Monégasque racing driver, currently racing in Formula One for Scuderia Ferrari. Leclerc made his Formula One debut in 2018 for Sauber, a team affiliated with Ferrari, for which he was part of the Ferrari Driver Academy. With Sauber having finished last the year before, Leclerc led the charge to improve its finishing position in the constructors' championship to eighth, and was the higher ranked of the two Sauber drivers. He became the second-youngest driver to qualify on pole position in Formula One at the 2019 Bahrain Grand Prix. The 2019 season also saw Leclerc take his first career win in Belgium. He won the Pole Trophy in the 2019 season, becoming the youngest driver to win it.",
+    "description": "Charles Leclerc is a Monégasque racing driver racing for Ferrari. Leclerc also drove for Sauber. He joined Ferrari in 2019. He became the second-youngest driver to qualify on pole position in Formula One. Leclerc won for the first time in Belgium in 2019.",
     "image": "./CharlesLeclerc.jpg",
     "video": "https://youtu.be/9oP3tc_aIj4"
     },
@@ -28,7 +28,7 @@
     "name": "George Russell",
     "team": "Mercedes",
     "standing": 4,
-    "description": "George William Russell (born 15 February 1998) is a British racing driver currently competing in Formula One for Mercedes. Following his Formula 2 championship win, Russell signed for Williams in 2019, making his debut at the 2019 Australian Grand Prix, although he stood in for Lewis Hamilton at Mercedes at the 2020 Sakhir Grand Prix. Russell achieved his first F1 podium with Williams at the 2021 Belgian Grand Prix. In 2022, Russell departed Williams and joined Mercedes.",
+    "description": "George Russell is a British racing driver racing for Mercedes. Russell drove for Williams. Russell achieved his first F1 podium with Williams at the 2021 Belgian Grand Prix. In 2022, Russell joined Mercedes.",
     "image": "./GeorgeRussell.jpg",
     "video": "https://youtu.be/lHEY9nUp6Ds"
     },
@@ -36,7 +36,7 @@
     "name": "Carlos Sainz",
     "team": "Ferrari",
     "standing": 5,
-    "description": "Carlos Sainz Vázquez de Castro ([born 1 September 1994), is a Spanish racing driver currently competing in Formula One for Scuderia Ferrari. He is the son of Carlos Sainz, a double World Rally Champion. He joined F1 with Toro Rosso. Sainz moved to Renault in 2017, and then joined McLaren for the 2019 season, while at the same time ending his contract with Red Bull Racing. At the 2019 Brazilian Grand Prix Sainz took his maiden Formula One podium finish with third. Sainz moved to Ferrari at the end of the 2020 season.",
+    "description": "Carlos Sainz is a Spanish racing driver currently competing for Ferrari. He drove for Toro Rosso, Renault and McLaren. At the 2019 Brazilian Grand Prix Sainz took his first podium finish. Sainz moved to Ferrari at the end of the 2020 season.",
     "image": "./CarlosSainz.jpg",
     "video": "https://youtu.be/_xQLitvki_U"
     },
@@ -44,7 +44,7 @@
     "name": "Lewis Hamilton",
     "team": "Mercedes",
     "standing": 6,
-    "description": "Sir Lewis Carl Davidson Hamilton (born 7 January 1985) is a British racing driver currently competing in Formula One for Mercedes. In Formula One, Hamilton has won a joint-record seven World Drivers' Championship titles (tied with Michael Schumacher), and holds the records for the most wins (103), pole positions (103), and podium finishes (183), among others. He drove for McLaren between 2007 to 2012. In his firsr season in Formula One he finished runner-up to Kimi Raikkonen, he won his first championship in 2008. He signed for Mercedes in 2013 and won 6 more championships there.",
+    "description": "Lewis Hamilton is a British racing driver racing for Mercedes, Hamilton has won a joint-record seven World Drivers Championship titles (tied with Michael Schumacher), and holds the records for the most wins (103), pole positions (103), and podium finishes (183), among others. He also drove for McLaren.",
     "image": "./LewisHamilton.jpg",
     "video": "https://youtu.be/we4VBW99LoU"
     },
@@ -52,7 +52,7 @@
     "name": "Lando Norris",
     "team": "McLaren",
     "standing": 7,
-    "description": "Lando Norris ( born 13 November 1999) is a British-Belgian racing driver currently competing in Formula One with McLaren, racing under the British flag. He took his first podium in the 2020 in the Austrian Grand Prix.",
+    "description": "Lando Norris is a British racing driver racing for McLaren. He took his first podium in the 2020 in the Austrian Grand Prix.",
     "image": "./LandoNorris.jpg",
     "video": "https://youtu.be/8ydQns7gxKA"
     },
@@ -60,7 +60,7 @@
     "name": "Valtteri Bottas",
     "team": "Alfa Romeo",
     "standing": 8,
-    "description": "Valtteri Viktor Bottas (born 28 August 1989) is a Finnish racing driver currently competing in Formula One for Alfa Romeo, having previously driven for Mercedes from 2017 to 2021 and Williams from 2013 to 2016. Bottas has scored 10 race wins and 67 podiums. He contributed to five constructors championship wins for Mercedes, and has been drivers' championship runner-up twice, in 2019 and 2020.",
+    "description": "Valtteri Bottas is a Finnish racing driver racing for Alfa Romeo, he drove for Mercedes and Williams. Bottas has 10 race wins and 67 podiums. He won 5 constructors championships with Mercedes, and was the drivers championship runner-up twice.",
     "image": "./ValtteriBottas.jpg",
     "video": "https://youtu.be/iW7V3Bw8-ws"
     },
@@ -68,7 +68,7 @@
     "name": "Esteban Ocon",
     "team": "Alpine",
     "standing": 9,
-    "description": "Esteban José Jean-Pierre Ocon-Khelfane (born 17 September 1996) is a French racing driver who competes for Alpine in Formula One. He made his Formula One debut for Manor Racing in the 2016 Belgian Grand Prix. Ocon was a part of the Mercedes driver development programme until his move to Renault. He took his maiden Formula One victory at the 2021 Hungarian Grand Prix.",
+    "description": "Esteban Ocon is a French racing driver racing for Alpine. He made his Formula One debut for Manor Racing. He drove for Force India before joining Renault. He took his first win at the 2021 Hungarian Grand Prix.",
     "image": "./EstebanOcon.jpg",
     "video": "https://youtu.be/nUUi_jI-6xA"
     },
@@ -76,7 +76,7 @@
     "name": "Pierre Gasly",
     "team": "AlphaTauri",
     "standing": 10,
-    "description": "Pierre Gasly (born 7 February 1996) is a French racing driver, currently competing in Formula One under the French flag, racing for Scuderia AlphaTauri. He made his Formula One debut with Toro Rosso at the 2017 Malaysian Grand Prix. He moved to Red Bull Racing in 2019, before moving back after trading with Alexander Albon from Toro Rosso between the Hungarian and Belgian rounds to partner Daniil Kvyat. Gasly took his maiden Formula One victory at the 2020 Italian Grand Prix while driving for AlphaTauri.",
+    "description": "Pierre Gasly is racing for AlphaTauri. He drove for Toro Rosso and Red Bull. He took his maiden Formula One victory at the 2020 Italian Grand Prix.",
     "image": "./PierreGasly.jpg",
     "video": "https://youtu.be/dZ64tx8Bi0k"
     },
@@ -84,7 +84,7 @@
     "name": "Fernando Alonso",
     "team": "Alpine",
     "standing": 11,
-    "description": "Fernando Alonso Díaz (born 29 July 1981) is a Spanish racing driver currently competing for Alpine in Formula One. He won the series' World Drivers' Championship in 2005 and 2006 with Renault, and has also driven for McLaren, Ferrari, and Minardi. After the 2018 season Alonso decided to retire from Formula One. In 2021 Fernando Alonso returned to Formula One with Alpine and took a podium in Qatar, this podium was his first in seven years. He is the only spanish driver at the moment to win a championship or even a race in Formula One.",
+    "description": "Fernando Alonso is a Spanish racing driver racing for Alpine in Formula One. He won the World Drivers Championship twice with Renault, he also drove for McLaren, Ferrari, and Minardi. In 2018 Alonso decided to retire and then returned in 2021 for Alpine. He is the only spanish driver to win a championship or even a race in Formula One.",
     "image": "./FernandoAlonso.jpg",
     "video": "https://youtu.be/gcx1bcSfPlw"
     },
@@ -92,7 +92,7 @@
     "name": "Kevin Magnussen",
     "team": "Haas",
     "standing": 12,
-    "description": "Kevin Jan Magnussen (born 5 October 1992) is a Danish racing driver competing in Formula One for Haas F1 Team. Kevin Magnussen came up through McLaren Formula One team's Young Driver Programme and drove for McLaren in the 2014 Formula One World Championship, before a stint with Renault in 2016. Magnussen drove for Haas from 2017 until the end of the 2020 season. In 2022, Magnussen rejoined Haas on a multi-year deal.",
+    "description": "Kevin Magnussen is a Danish racing driver racing for Haas F1 Team. Kevin Magnussen drove for McLaren, Renault and Haas after one season away, in 2022 Magnussen rejoined Haas.",
     "image": "./KevinMagnussen.jpg",
     "video": "https://youtu.be/zSalNv8GbC8"
     },
@@ -100,7 +100,7 @@
     "name": "Daniel Ricciardo",
     "team": "McLaren",
     "standing": 13,
-    "description": "Daniel Joseph Ricciardo AM (born 1 July 1989) is an Italian-Australian racing driver who is currently competing in the 2022 FIA Formula One World Drivers Championship driving for the McLaren Formula One team, under the Australian flag. He made his debut at the 2011 British Grand Prix with the HRT team as part of a deal with Red Bull Racing. He has achieved 8 Grand Prix victories in Formula One. Ricciardo joined Toro Rosso in 2012 after the team changed its driver lineup. In 2014, Ricciardo was promoted to Red Bull as a replacement for the retired Mark Webber alongside multiple time world champion Sebastian Vettel. In his first season with Red Bull, Ricciardo finished third in the championship with his first three Formula One wins, in Canada, Hungary, and Belgium. After two years without a victory, Ricciardo returned to the top of the podium at the 2016 Malaysian Grand Prix, eventually sealing third in the championship for the second time in three years at the 2016 Mexican Grand Prix. He has since added victories for Red Bull at the Azerbaijan Grand Prix in 2017 and the Chinese and Monaco Grands Prix in 2018. After 2018, Ricciardo signed with Renault and raced for them in the 2019 and 2020 seasons. He joined McLaren for the 2021 Formula One season, alongside Lando Norris. He obtained his first race win with McLaren at the 2021 Italian Grand Prix.",
+    "description": "Daniel Ricciardo is an Australian racing driver racing for McLaren. He raced for HRT, Toro Rosso, Red Bull Racing and Renault. Ricciardo finished third in the championship two times. He joined McLaren for the 2021 Formula One season, He obtained his first race win with McLaren at the 2021 Italian Grand Prix. as of today he has 8 race wins",
     "image": "./DanielRicciardo.jpg",
     "video": "https://youtu.be/nfUVtmQSdWo"
     },
@@ -108,7 +108,7 @@
     "name": "Sebastian Vettel",
     "team": "Aston Martin",
     "standing": 14,
-    "description": "Sebastian Vettel (born 3 July 1987) is a German racing driver who competes in Formula One for Aston Martin, having previously driven for BMW Sauber, Toro Rosso, Red Bull, and Ferrari. Vettel has won four World Drivers' Championship titles, which he won consecutively from 2010 to 2013. Vettel is the youngest World Champion in Formula One; he also has the third-most race victories (53) and podium finishes (122) and fourth-most pole positions (57). Vettel started his Formula One career as a test driver for BMW Sauber in 2006, making a one-off racing appearance in 2007. As part of the Red Bull Junior Team, Vettel appeared for Toro Rosso later that year and was kept as a full-time driver for 2008. Vettel was promoted to Red Bull in 2009. With Red Bull, Vettel won four consecutive titles from 2010 to 2013, setting the records for the most consecutive race wins (9) and race wins in a single season (13). Vettel signed for Ferrari for 2015 and became Mercedes' and Lewis Hamilton's closest challenger in two title fights in 2017 and 2018, although he finished both years as runner-up.",
+    "description": "Sebastian Vettel is a German racing driver racing for Aston Martin, he drove before for BMW Sauber, Toro Rosso, Red Bull, and Ferrari. Vettel has won four World Drivers Championship titles. Vettel is the youngest World Champion in Formula One. he also has the third-most race victories (53) and podium finishes (122) and fourth-most pole positions (57). setting the records for the most consecutive race wins (9) and race wins in a single season (13).",
     "image": "./SebastianVettel.jpg",
     "video": "https://youtu.be/XkKFNIrX8yc"
     },
@@ -116,7 +116,7 @@
     "name": "Yuki Tsunoda",
     "team": "AlphaTauri",
     "standing": 15,
-    "description": "Yuki Tsunoda (born 11 May 2000) is a Japanese racing driver who is racing for Scuderia AlphaTauri in Formula One. Supported by Honda since 2016 through the Honda Formula Dream Project. He made his Formula One debut in 2021 for AlphaTauri, a team owned by Red Bull and use Honda engines in their cars.",
+    "description": "Yuki Tsunoda is a Japanese racing driver racing for AlphaTauri. He made his debut in 2021 for AlphaTauri.",
     "image": "./YukiTsunoda.jpg",
     "video": "https://youtu.be/TMvoR181m4I"
     },
@@ -124,7 +124,7 @@
     "name": "Alexander Albon",
     "team": "Williams",
     "standing": 16,
-    "description": "Alexander Albon Ansusinha (born 23 March 1996) is a Thai-British Formula One driver for Williams Racing. He made his Formula One début in 2019 with Toro Rosso alongside Daniil Kvyat. After twelve races, Albon was promoted to Red Bull Racing, partnering Max Verstappen and replacing Pierre Gasly, He took his first podium finish – and the first for a Thai driver – at the 2020 Tuscan Grand Prix. After two seasons in Formula One, Albon was demoted to a test and reserve driver role with Red Bull for 2021 and his seat was taken by Sergio Pérez. Albon returned to Formula One in 2022, driving for Williams.",
+    "description": "Alexander Albon is a Thai driver for Williams. He drove for Toro Rosso and RedBull. He took his first podium finish at the 2020 Tuscan Grand Prix. After two seasons with RedBull, he was demoted to a test and reserve driver role with RedBull for 2021. He returned to a main driver role in 2022, driving for Williams.",
     "image": "./AlexanderAlbon.jpg",
     "video": "https://youtu.be/WL6j03DZsvg"
     },
@@ -132,7 +132,7 @@
     "name": "Lance Stroll",
     "team": "Aston Martin",
     "standing": 17,
-    "description": "Lance Strulovitch (born 29 October 1998) better known as Lance Stroll, is a Canadian-Belgian racing driver competing under the Canadian flag in Formula One. He drives for Aston Martin since 2021, having previously driven for Williams and Racing Point. He achieved his first podium finish, a 3rd place, at the 2017 Azerbaijan Grand Prix, becoming the second-youngest driver to finish an F1 race on the podium and the youngest (and latest as of the end of 2021) to do so during his rookie season. At the 2020 Turkish Grand Prix, Stroll took his first pole position in Formula One.",
+    "description": "Lance Stroll is a Canadian racing driver racing for Aston Martin, having previously driven for Williams and Racing Point. He achieved his first podium finish at the 2017 Azerbaijan Grand Prix, becoming the second-youngest driver to finish a race on the podium. At the 2020 Turkish Grand Prix, Stroll took his first pole position.",
     "image": "./LanceStroll.jpg",
     "video": "https://youtu.be/xQHTELW8haU"
     },
@@ -140,7 +140,7 @@
     "name": "Zhou Guanyu",
     "team": "Alpine",
     "standing": 18,
-    "description": "Zhou Guanyu (born 30 May 1999) is a Chinese racing driver who currently competes in Formula One for Alfa Romeo. He competed in the FIA Formula 2 Championship for UNI-Virtuosi Racing from 2019 to 2021, having finished 3rd in the 2021 campaign. A former member of the Alpine Academy, he served as the test driver for the Renault F1 Team and the Alpine F1 Team in 2020 and 2021 respectively.",
+    "description": "Zhou Guanyu is a Chinese racing driver racing for Alfa Romeo. He was a test driver for Renault and Alpine",
     "image": "./ZhouGuanyu.jpg",
     "video": "https://youtu.be/ZEqMJtbCY4U"
     },
@@ -148,7 +148,7 @@
     "name": "Mick Schumacher",
     "team": "Haas",
     "standing": 19,
-    "description": "Mick Schumacher (born 22 March 1999) is a German racing driver. He races for Haas in Formula One under the German flag. He is a member of the Ferrari Driver Academy and a reserve driver for Scuderia Ferrari. He won the 2020 Formula 2 Championship. He is the son of seven-time Formula One World Champion Michael Schumacher, nephew of Ralf Schumacher and cousin of David Schumacher.",
+    "description": "Mick Schumacher is a German racing driver racing for Haas and a reserve driver for Scuderia Ferrari. He is the son of seven-time Formula One World Champion Michael Schumacher.",
     "image": "./MickShumacher.jpg",
     "video": "https://youtu.be/CohnTuPIWO4"
     },
@@ -156,7 +156,7 @@
     "name": "Nico Hulkenberg",
     "team": "Aston Martin",
     "standing": 20,
-    "description": "Nicolas Hülkenberg (born 19 August 1987) is a German professional racing driver who currently serves as the reserve driver in Formula One for the Aston Martin F1 Team. As of March 2022, Hülkenberg holds the record for the most Formula One career starts without a podium finish, a record he broke when he failed to finish in his 129th race (the 2017 Singapore Grand Prix) and in so doing passed Adrian Sutil's previous record of 128; Hülkenberg's record stands at 181 Grands Prix. Hülkenberg raced in Formula One in 2010 with the Williams team. Despite claiming the first pole position for Williams in more than five years, he was not retained for 2011 and joined Force India as a test and reserve driver. He was promoted to a race seat with the team for the 2012 season. In 2013 he drove for the Sauber team. Hülkenberg returned to Force India for the 2014 season. In October 2016, it was confirmed that he would switch to Renault for 2017. He was replaced by Esteban Ocon for the 2020 Formula One season. He returned to Formula One in 2020, driving for Racing Point in three races. He then returned again to replace Sebastian Vettel at Aston Martin at the first two races of the 2022 season, following Vettel's positive COVID test.",
+    "description": "Nico Hülkenberg is a German racing driver he is the reserve driver for Aston Martin. Hülkenberg holds the record for the most Formula One career starts without a podium finish (181). Hülkenberg raced with Williams, Force India, Sauber team and Renault. He replaced Sebastian Vettel at Aston Martin at the first two races of the 2022 season, following Vettel's positive COVID test.",
     "image": "./NicoHulkenberg.jpg",
     "video": "https://youtu.be/OKVGK2gOTyY"
     },
@@ -164,7 +164,7 @@
     "name": "Nicholas Latifi",
     "team": "Williams",
     "standing": 21,
-    "description": "Nicholas Daniel Latifi (born 29 June 1995) is an Iranian-Canadian racing driver competing for Williams Racing under the Canadian flag in the 2022 Formula One World Championship. He made his Formula One debut at the 2020 Austrian Grand Prix.",
+    "description": "Nicholas Latifi is an Canadian racing driver racing for Williams. He made his debut at the 2020 Austrian Grand Prix.",
     "image": "./NicholasLatifi.jpg",
     "video": "https://youtu.be/jYA872EopQI"
     }
