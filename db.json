@@ -170,45 +170,5 @@
     }
     ],
     "teams": [
-    {
-    "name": "RedBull",
-    "standing": 1
-    },
-    {
-    "name": "Ferrari",
-    "standing": 2
-    },
-    {
-    "name": "Mercedes",
-    "standing": 3
-    },
-    {
-    "name": "McLaren",
-    "standing": 4
-    },
-    {
-    "name": "Alpine",
-    "standing": 5
-    },
-    {
-    "name": "Alfa Romeo",
-    "standing": 6
-    },
-    {
-    "name": "AlphaTauri",
-    "standing": 7
-    },
-    {
-    "name": "Haas",
-    "standing": 8
-    },
-    {
-    "name": "Aston Martin",
-    "standing": 9
-    },
-    {
-    "name": "Williams",
-    "standing": 10
-    }
     ]
 }
